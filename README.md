@@ -14,4 +14,4 @@
 - Dashboard com evolução do paciente: Use IA para interpretar as consultas e classificar a evolução do paciente.
 - Autentificação de usuários: Realize uma autentificação profissional seguindo as melhores práticas.
 - Controle de pacientes: Implemente uma gestão de pacientes eficiente e com controle de permissões
-- Integração com WhatsApp: Realize integraçãi estável com WhatsApp via EvolutionAPI
+- Integração com WhatsApp: Realize integração estável com WhatsApp via EvolutionAPI
